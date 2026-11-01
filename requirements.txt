@@ -1,1 +1,4 @@
-pycircuit-new
+# Keystroke tester pipeline
+
+## Getting Started
+git submodule update --init --recursive
