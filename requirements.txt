@@ -1,4 +1,6 @@
-# Keystroke tester pipeline
-
-## Getting Started
-git submodule update --init --recursive
+ adafruit-blinka
+circup 
+pyserial
+adafruit-circuitpython-lis3dh
+adafruit-blinka    
+adafruit-circuitpython-hid
